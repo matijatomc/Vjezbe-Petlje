@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\tomcMatijaPetlje\tomcMatijaPetlje\obj\Debug\tomcMatijaPetlje.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\tomcMatijaPetlje\tomcMatijaPetlje\obj\Debug\tomcMatijaPetlje.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\tomcMatijaPetlje\tomcMatijaPetlje\bin\Debug\tomcMatijaPetlje.exe.config
+C:\Users\3.D\source\repos\tomcMatijaPetlje\tomcMatijaPetlje\bin\Debug\tomcMatijaPetlje.exe
+C:\Users\3.D\source\repos\tomcMatijaPetlje\tomcMatijaPetlje\bin\Debug\tomcMatijaPetlje.pdb
+C:\Users\3.D\source\repos\tomcMatijaPetlje\tomcMatijaPetlje\obj\Debug\tomcMatijaPetlje.exe
+C:\Users\3.D\source\repos\tomcMatijaPetlje\tomcMatijaPetlje\obj\Debug\tomcMatijaPetlje.pdb
